@@ -12,7 +12,6 @@
             "email": "619987303@qq.com"
         }
     ],
-    "minimum-stability": "stable",
     "autoload": {
         "psr-4": {
             "Ford\\Escape\\": "src/Ford/Escape",
