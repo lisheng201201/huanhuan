@@ -1,10 +1,11 @@
 {
-    "name": "lisheng201201/lisheng",
+    "name": "lisheng201201/huanhuan",
     "description": "lisheng is a good man",
-    "license": "MIT",
+    "type": "library",
     "require": {
         "php": ">5.3"
     },
+    "license": "MIT",
     "authors": [
         {
             "name": "lisheng",
