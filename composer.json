@@ -1,0 +1,23 @@
+{
+    "name": "lisheng201201/lisheng",
+    "description": "lisheng is a good man",
+    "license": "MIT",
+    "require": {
+        "php": ">5.3"
+    },
+    "authors": [
+        {
+            "name": "lisheng",
+            "email": "619987303@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Ford\\Escape\\": "src/Ford/Escape",
+            "Ford\\Fusion\\": "src/Ford/Fusion",
+            "Ford\\Focus\\": "src/Ford/Focus",
+            "Ford\\Fiesta\\": "src/Ford/Fiesta"
+        }
+    }   
+}
